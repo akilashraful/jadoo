@@ -1,0 +1,284 @@
+#signup{
+    border: 2px solid #13965E;
+    padding: 6px 32px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #13965E;
+}
+
+#signin{
+    background-color:#13965E;
+    padding: 6px 32px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+
+/* .herosec{
+    background-image: url(Images/herosecbg.png);
+    height: 819px;
+    background-repeat: no-repeat;
+    background-position: right;
+} */
+
+body{
+    background-image: url(Images/herosecbg.png);
+    height: 819px;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.nav-link{
+    margin-inline-start: 43px;
+    font-size: 18px;
+}
+
+.ctabtn{
+    margin-inline-start: 24px !important;
+}
+
+.navbar-nav{
+    margin-top: 15px;
+}
+
+
+.playnow{
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    background-color: #13965E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btncta{
+    padding: 8px 30px;
+    background-color: #13965E;
+    font-weight: bold;
+    color: white;
+    border: 2px solid #13965E;
+    border-radius: 10px;
+    margin-inline-end: 55px;
+
+}
+
+.btncta:hover{
+    
+    background-color: transparent;
+    color: #13965E;
+    border: 2px solid #13965E;
+    
+
+}
+
+.ctaherosec{
+    display: inline-block;
+    margin-top: 22px;
+}
+
+
+.herosect{
+   /* background-color: red; */
+   margin-top: 78px;
+}
+
+
+
+
+#herotitle{
+    font-size: 85px;
+    font-weight: bold;
+    line-height: 109%;
+    margin-top: -10px ;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.col-3{
+
+    height: 367px;
+  
+    
+}
+
+.firstsec{
+    margin-top: 200px;
+}
+
+
+.secondsec{
+    margin-top: 150px;
+}
+
+.border{
+    box-shadow: 2px 2px 5px gray;
+    padding: 30px;
+    border-radius: 32px;
+    height: 368px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+#imgsec1{
+    /* margin-bottom: 42px; */
+    
+}
+
+.txtsec1{
+    font-size: 18px;
+    margin-top: 14px;
+    text-align: center;
+    
+}
+
+
+.h5first{
+    font-size: 22px;
+    /* font-weight: bold; */
+    text-align: center;
+}
+
+
+.sec1tit{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.sec1tit1{
+font-size: 20px;
+margin-bottom: 5px;
+}
+
+.sec1tit2{
+font-size: 60px;
+}
+
+
+.card1{
+    border-radius: 32px;
+    box-shadow: 2px 2px 5px gray;
+
+}
+
+.imgcard{
+
+}
+
+.txtcard{
+    padding: 32px;
+    
+    margin-top: -10px;
+}
+
+#rad{
+    border-top-right-radius:32px ;
+    border-top-left-radius: 32px;
+}
+
+.titlecard2{
+
+}
+
+.carddays{
+    margin-top: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.egtpx{
+     font-size: 18px;
+}
+
+
+.sec3tit{
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+
+.boxx1{
+    height: 70px;
+    width: 70px;
+    background-color: #F0BB1F;
+    border-radius: 8px;
+    margin-inline-end: 15px;
+}
+
+.boxx2{
+    height: 70px;
+    width: 70px;
+    background-color: #F15A2B;
+    border-radius: 8px;
+    margin-inline-end: 15px;
+}
+
+.boxx3{
+    height: 70px;
+    width: 70px;
+    background-color: #006380;
+    border-radius: 8px;
+    margin-inline-end: 15px;
+}
+
+
+.h5third{
+    font-size: 22px;
+    /* font-weight: bold; */
+    text-align: left;
+}
+
+.txtsec3{
+    font-size: 18px;
+    margin-top: 14px;
+    text-align: left;
+    
+}
+
+.secmain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.thirdsecall{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#slid1{
+    margin-left: 50%;
+}
+
+footer{
+    height: 50px;
+    background-color: #13965E;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#copyakil{
+    text-decoration: none;
+    color: white;
+}
